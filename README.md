@@ -1,9 +1,9 @@
 # Programa Sharp Coders
 ## Projeto Clone do Spofity 
 
-Atividade realizada para o Programa **Sharp Coders** da **Ímã Tech** em parceria com a **MXM Sistemas**.
+Atividade realizada para o Programa **Sharp Coders** da **Ímã Tech** em parceria com a **MXM Sistemas**. O desafio era fazer um clone da home page do *Spotify*, foi bem legal, pois pude aprimorar ainda mais meus conhecimentos com *HTML e CSS*.
 
-Tecnologias usadas para desenvolver o clone de um dos streaming de música mais famosos do mundo;
+As Tecnologias usadas para desenvolver o projeto foi basicamente as duas, que estão sempre presentes no desenvovimento Web:
 - HTML
 - CSS
 
